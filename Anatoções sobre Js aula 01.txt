@@ -1,0 +1,35 @@
+Map
+
+Estrutura: uma coleção de arrays no formato (chave, valor, parenteses,..)
+
+const myMap= new Map( )
+
+loop for...off
+
+adicionar elementos: mymap.set ( )
+
+checar valor: mymap.get ('')
+
+deletar: mymap.delete("")
+
+Map x Objeto
+
+Map formato de chaves de qualquer tipo
+Map valor desconhecido
+Objeto formato de strings
+Objeto valor conhecido
+
+Set: sao estruturas que armazenam valores unicos que nao se repetem nunca.
+
+adicionar: myset.add( )
+
+ver valor: myset.has( )
+
+deletar: myset.delete ( )
+
+SetxArray
+
+Set valores unicos, length, propriedade size
+
+Array é flexivel, possui varios métodos map, filter, reduce,
+

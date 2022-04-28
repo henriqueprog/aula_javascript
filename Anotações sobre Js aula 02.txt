@@ -1,0 +1,26 @@
+erro
+
+-ecmascript error
+
+erro no tempo de execução (quando ocodigo esta rodando e algo nao foi declarado, faltou uma string, ou ponto e virgula,...)
+
+-dom exception (document object model) relacionado ao codigo sendo executado na pagina web.
+
+erro relacionado a um codigo
+
+erro na estrutura na arvore de elementos na pagina da web
+
+tratar erros
+
+trhow - compartamento do console informando um erro
+
+return - informa uma mensagem de erro qualquer que foi informada na string
+
+declaração try/catch - no bloco try, se tiver erro no pedaço do codigo, ele vai enviar para o catch para o erro ser manipulado.
+
+finally - uma instrução de chamada se houver erro ou nao.
+
+-declarar um "erro" no JS
+
+
+
