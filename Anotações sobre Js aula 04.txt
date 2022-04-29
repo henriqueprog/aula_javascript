@@ -1,0 +1,23 @@
+Paradigmas
+
+Imperativo: como resolver problemas?
+
+Declarativo: onde vai resolver
+
+Orientação Objetos
+
+- Objeto "pessoa" varias propriedas
+
+Abstração: "generalizar" simplificar avaliação, classificação ou permitir a comunicação
+
+Herança: o filho erda a herança mais tem suas propridades
+
+encapsulamento: cada classe tem propriedades e métodos independentes do restante do código.
+
+polimorfismo: herda a classe pai, mas se comportam de forma diferente
+
+OOJS: Prototipo 
+
+Classes
+Syntatic sugar sintaxe para faciliar a escrita.
+
