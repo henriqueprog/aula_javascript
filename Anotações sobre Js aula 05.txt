@@ -1,0 +1,28 @@
+Map:mapear array
+
+array.map(callback, thisArg)
+
+callback(item, index, array)função a ser executada em cada elemento.
+
+map x forEach
+
+Método Filter
+
+Itens que corresponderem a determinada condição retorna uma nova array, sem mudar a original.
+
+array.filter(callback,thisArg)
+
+metodo "includes"
+
+const frutas = ['maça fuji', 'maça verde', 'laranja', 'abacaxi'];
+frutas.filter((fruta) => fruta.includes('maça'))
+
+Método Reduce: executa uma função em todos os elementos do asaray, retonando um valor unico.
+
+Sintaxe
+
+array.reduce(callbackFn, initialValue)
+
+const callbackFn = function (accumulator,...
+
+array.reduce (callback,...
